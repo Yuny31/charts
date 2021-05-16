@@ -10,20 +10,21 @@ dependencies:
   - name: common
     repository: https://charts.bitnami.com/bitnami
     version: 1.x.x
-description: A suite of web based open source business apps.
+description: Suite opensource para manejo de operaciones del Negocio.
 engine: gotpl
 home: https://github.com/bitnami/charts/tree/master/bitnami/odoo
 icon: https://bitnami.com/assets/stacks/odoo/img/odoo-stack-220x234.png
 keywords:
-  - odoo
+  - mikanbanerp
   - crm
+  - erp
   - www
   - http
   - web
 maintainers:
-  - email: containers@bitnami.com
-    name: Bitnami
-name: odoo
+  - email: infra@kanbanconsultores.com
+    name: Infra-Kanban
+name: mikanbanerp
 sources:
   - https://github.com/bitnami/bitnami-docker-odoo
   - https://www.odoo.com/
